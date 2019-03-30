@@ -25,6 +25,7 @@ weight: 20
   * [PyPi - Python Package Index](https://pypi.org/) - the repository where `pip` finds library packages
   * [Python Module of the Week](https://pymotw.com/3/) - Series of articles to demonstrate how to use the modules of the Python 3 standard library
   * [Real Python](https://realpython.com/) - Loads and loads of helpful articles, tutorials, and more
+  * [Full Stack Python](https://www.fullstackpython.com/flask.html) - Flask resources
   * [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) A comprehensive introduction to creating Flask projects
   * [PythonAnywhere](https://www.pythonanywhere.com/) - Run python programs in a cloud instance
   * [Python Articles](https://medium.freecodecamp.org/tagged/python ) - Python stories worth reading about programming and technology from our open source community.
